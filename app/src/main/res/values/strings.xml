@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UnitConversionApp</string>
+
+    <string-array name="temp_unit_array">
+        <item>Kelvin (K)</item>
+        <item>Celsius (°C)</item>
+        <item>Fahrenheit (°F)</item>
+
+    </string-array>
+    <string-array name="vol_unit_array">
+        <item>Litre (l)</item>
+        <item>Millilitre (ml)</item>
+        <item>US liquid gallon (US gal)</item>
+
+    </string-array>
+</resources>
