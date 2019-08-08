@@ -5,6 +5,7 @@
         <item>Kelvin (K)</item>
         <item>Celsius (°C)</item>
         <item>Fahrenheit (°F)</item>
+        <item>Delisle (°De)</item>
 
     </string-array>
     <string-array name="vol_unit_array">
